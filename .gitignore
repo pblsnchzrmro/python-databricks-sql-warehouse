@@ -1,3 +1,8 @@
+# Configuration files with sensitive data
+config_pat.json
+config_oauth.json
+config_keyvault.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

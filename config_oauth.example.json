@@ -1,0 +1,8 @@
+{
+  "databricks": {
+    "server_hostname": "adb-xxxxxxxxxxxx.0.azuredatabricks.net",
+    "http_path": "/sql/1.0/warehouses/xxxxxxxxxxxxxxxx",
+    "client_id": "your_oauth_client_id_here",
+    "client_secret": "your_oauth_client_secret_here"
+  }
+}

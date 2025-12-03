@@ -1,0 +1,5 @@
+{
+  "azure": {
+    "keyvault_url": "https://your-keyvault-name.vault.azure.net/"
+  }
+}

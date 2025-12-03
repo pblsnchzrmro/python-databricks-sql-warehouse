@@ -1,0 +1,7 @@
+{
+  "databricks": {
+    "server_hostname": "adb-xxxxxxxxxxxx.0.azuredatabricks.net",
+    "http_path": "/sql/1.0/warehouses/xxxxxxxxxxxxxxxx",
+    "access_token": "your_personal_access_token_here"
+  }
+}
